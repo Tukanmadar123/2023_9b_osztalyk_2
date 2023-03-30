@@ -1,0 +1,72 @@
+*{box-sizing: border-box;}
+body{
+    background-color: cadetblue;
+}
+h1{
+    text-align: center;
+    text-decoration: double;
+    text-decoration-color: black;
+}
+h2{
+    color: darkblue;
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+.ut{
+    list-style: circle;
+}
+li{
+    color: rgb(41, 40, 40);
+    font-size: 20px;   
+}
+.hotel{
+    height: 15%;
+    width: 30%;
+    float: right;
+}
+.kep{
+    background-size: cover;
+    width: 30%;
+    height: 40%;
+    margin: 10px;
+}
+footer{
+    background-color: yellow ;
+    font-size: 20px;
+}
+#galeria{
+    padding: 10px;
+}
+#galeria img:hover{
+    opacity: 0.8;
+}
+a{
+    color: rgb(66, 66, 255);
+}
+.container{
+    width: 100%;
+    height: 500px;
+    justify-content: center;
+}
+
+.furdo{
+    background-image: url("furdo.jpg");
+}
+.hamburger{
+    background-image: url("hamburger.jpg");
+}
+
+.hotel-kep{
+    background-image: url("hotel.jpg");
+}
+
+.kastely{
+    background-image: url("kastely.jpg");
+}
+
+.var{
+    background-image: url("var.jpg");
+}
+.furdo2{
+    background-image: url("furdo2.jpg");
+}
